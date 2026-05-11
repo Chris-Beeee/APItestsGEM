@@ -5,25 +5,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d888a7a4-a500-4821-a6db-f71f478645cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/APItestsGEM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_jsonplaceholder_NEG_DELETE_resource_no_userid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_jsonplaceholder_NEG_FILTER_query_params_no_userid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_jsonplaceholder_NEG_GET_list_mis-spelt_folder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_jsonplaceholder_NEG_GET_single_resource.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_jsonplaceholder_NEG_POST_create_resource.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_jsonplaceholder_NEG_PUT_update_resource.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_jsonplaceholder_NEG_Parent_Child_Data_Relationship.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_jsonplaceholder_POS_DELETE_resource.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_jsonplaceholder_POS_FILTER_query_params.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_jsonplaceholder_POS_GET_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_jsonplaceholder_POS_GET_single_resource.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_jsonplaceholder_POS_POST_create_resource.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_jsonplaceholder_POS_PUT_update_resource.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_jsonplaceholder_POS_Parent_Child_Data_Relationship.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Chris-Beeee&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Chris-Beeee/APItestsGEM.git&quot;,
+    &quot;accountId&quot;: &quot;6e9f340f-bec3-48de-86f0-694c6e773bc1&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="3DJKpsiBBuAoXD1lcSKa0zRa6dX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,18 +63,125 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for tests.test_jsonplaceholder__Parent_Child_Data_Relationship.test_get_comments_for_post.executor": "Run",
+    "Python tests.Python tests in test_jsonplaceholder_DELETE_resource.py.executor": "Run",
+    "Python tests.Python tests in test_jsonplaceholder_FILTER_query_params.py.executor": "Run",
+    "Python tests.Python tests in test_jsonplaceholder_GET_list.py.executor": "Run",
+    "Python tests.Python tests in test_jsonplaceholder_GET_single_resource.py.executor": "Run",
+    "Python tests.Python tests in test_jsonplaceholder_NEG_DELETE_resource.py.executor": "Run",
+    "Python tests.Python tests in test_jsonplaceholder_NEG_DELETE_resource_no_userid.py.executor": "Run",
+    "Python tests.Python tests in test_jsonplaceholder_NEG_FILTER_query_params_no_userid.py.executor": "Run",
+    "Python tests.Python tests in test_jsonplaceholder_NEG_GET_list_mis-spelt_folder.py.executor": "Run",
+    "Python tests.Python tests in test_jsonplaceholder_NEG_GET_single_resource.py.executor": "Run",
+    "Python tests.Python tests in test_jsonplaceholder_NEG_POST_create_resource.py.executor": "Run",
+    "Python tests.Python tests in test_jsonplaceholder_NEG_Parent_Child_Data_Relationship.py.executor": "Run",
+    "Python tests.Python tests in test_jsonplaceholder_POST_create_resource.py.executor": "Run",
+    "Python tests.Python tests in test_jsonplaceholder_PUT_update_resource.py.executor": "Run",
+    "Python tests.Python tests in test_jsonplaceholder__Parent_Child_Data_Relationship.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/cex/PycharmProjects/APItestsGEM/tests",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cex\PycharmProjects\APItestsGEM\tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests in test_jsonplaceholder_NEG_Parent_Child_Data_Relationship.py">
+    <configuration name="Python tests in test_jsonplaceholder_NEG_FILTER_query_params_no_userid.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="APItestsGEM" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_jsonplaceholder_NEG_FILTER_query_params_no_userid.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_jsonplaceholder_NEG_GET_list_mis-spelt_folder.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="APItestsGEM" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_jsonplaceholder_NEG_GET_list_mis-spelt_folder.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_jsonplaceholder_NEG_GET_single_resource.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="APItestsGEM" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_jsonplaceholder_NEG_GET_single_resource.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_jsonplaceholder_NEG_POST_create_resource.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="APItestsGEM" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_jsonplaceholder_NEG_POST_create_resource.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_jsonplaceholder_NEG_Parent_Child_Data_Relationship.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="APItestsGEM" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_jsonplaceholder_NEG_Parent_Child_Data_Relationship.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in test_jsonplaceholder_NEG_Parent_Child_Data_Relationship.py" />
+        <item itemvalue="Python tests.Python tests in test_jsonplaceholder_NEG_POST_create_resource.py" />
+        <item itemvalue="Python tests.Python tests in test_jsonplaceholder_NEG_GET_single_resource.py" />
+        <item itemvalue="Python tests.Python tests in test_jsonplaceholder_NEG_GET_list_mis-spelt_folder.py" />
+        <item itemvalue="Python tests.Python tests in test_jsonplaceholder_NEG_FILTER_query_params_no_userid.py" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
+        <option value="bundled-python-sdk-b3d66beaba9a-c6efb3732140-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26199.168" />
       </set>
     </attachedChunks>
   </component>
